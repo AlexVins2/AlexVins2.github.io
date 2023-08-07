@@ -63,7 +63,7 @@ body{
     position: absolute;
     right: 0;
     width: 300px;
-    background-color: #4d1340;
+    background-color: #320c2a;
     display: none;
 }
 
@@ -111,7 +111,7 @@ img{
         top: 100%;
         left: 0;
         right: 0;
-        background-color: rgb(230, 9, 101);
+        background-color: #320c2a;
         display: none;
     }
 
@@ -130,7 +130,7 @@ img{
     }
 
     .header .navigation ul li ul li{
-        background-color: rgb(80, 9, 36);
+        background-color: #320c2a;
     }
 
     .header .navigation ul li ul li ul{
